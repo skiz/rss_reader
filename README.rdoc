@@ -3,13 +3,12 @@
 A Simple RSS reader using nokogiri that creates RssEntry objects from feeds.
 
 == Usage
-
-feed = RssReader::Feed.new('http://yoursite.com/feed.rss')
-# => #<Feed1>
-feed.fetch
-# => #<Feed1>
-feed.entries
-# => #<Entry1>, #<Entry2>, #<Entry3>
+# feed = RssReader::Feed.new('http://yoursite.com/feed.rss')
+# # => #<Feed1>
+# feed.fetch
+# # => #<Feed1>
+# feed.entries
+# # => #<Entry1>, #<Entry2>, #<Entry3>
 
 == Note on Patches/Pull Requests
  
