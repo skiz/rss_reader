@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<html>
+<body>
+  <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ynews="http://news.yahoo.com/rss/">
+    <channel>
+      <title>Yahoo! News: Top Stories</title>
+      <copyright>Copyright (c) 2009 Yahoo! Inc. All rights reserved.</copyright>
+      <link>http://news.yahoo.com/i/716
+      <category>topstories</category>
+      <description>Top Stories</description>
+      <language>en-us</language>
+      <lastbuilddate>Thu, 03 Dec 2009 19:48:45 GMT</lastbuilddate>
+      <ttl>5</ttl>
+        <image>
+          <title>Yahoo! News</title>
+          <width>142</width>
+          <height>18</height>
+          <link>http://news.yahoo.com/i/716</link>
+        <url>http://l.yimg.com/a/i/us/nws/th/main_142b.gif</url></image>
+        <item>
+          <title>Senate casts first votes to overhaul health care (AP)</title>
+          <link>http://us.rd.yahoo.com/dailynews/rss/topstories/*http://news.yahoo.com/s/ap/20091203/ap_on_bi_ge/us_health_care_overhaul</link>
+          <guid ispermalink="false">ap/20091203/us_health_care_overhaul</guid>
+          <source>AP</source>
+          <category>business</category>
+          <pubdate>Thu, 03 Dec 2009 19:18:30 GMT</pubdate>
+          <description>&lt;p&gt;&lt;a href="http://us.rd.yahoo.com/dailynews/rss/topstories/*http://news.yahoo.com/s/ap/20091203/ap_on_bi_ge/us_health_care_overhaul"&gt;&lt;img src="http://d.yimg.com/a/p/ap/20091202/capt.c98a61087a494d89a3cd953fb88eb80d.health_care_overhaul_dcgh129.jpg?x=130&amp;y=86&amp;q=85&amp;sig=4IVXEEPlL7ZrWKaZsu42AA--" align="left" height="86" width="130" alt="Sen. Barbara Boxer, D-Calif. greets participants after speaking at a rally to stop the abortion coverage ban in health care reform, Wednesday, Dec. 2, 2009, on Capitol Hill in Washington. (AP Photo/Gerald Herbert)" border="0" /&gt;&lt;/a&gt;AP - The Senate cast its first votes on remaking the nation's health care system Thursday, approving an amendment to safeguard coverage of mammograms and preventive screening tests for women under a revamped system.&lt;/p&gt;&lt;br clear="all"/&gt;</description>
+          <content url="http://d.yimg.com/a/p/ap/20091202/capt.c98a61087a494d89a3cd953fb8Senate casts first votes to overhaul health care (AP)8eb80d.health_care_overhaul_dcgh129.jpg?x=130&amp;y=86&amp;q=85&amp;sig=4IVXEEPlL7ZrWKaZsu42AA--" type="image/jpeg" height="86" width="130">
+          </content>
+          <text type="html">&lt;p&gt;&lt;a href="http://us.rd.yahoo.com/dailynews/rss/topstories/*http://news.yahoo.com/s/ap/20091203/ap_on_bi_ge/us_health_care_overhaul"&gt;&lt;img src="http://d.yimg.com/a/p/ap/20091202/capt.c98a61087a494d89a3cd953fb88eb80d.health_care_overhaul_dcgh129.jpg?x=130&amp;y=86&amp;q=85&amp;sig=4IVXEEPlL7ZrWKaZsu42AA--" align="left" height="86" width="130" alt="photo" title="Sen. Barbara Boxer, D-Calif. greets participants after speaking at a rally to stop the abortion coverage ban in health care reform, Wednesday, Dec. 2, 2009, on Capitol Hill in Washington. (AP Photo/Gerald Herbert)" border="0"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;br clear="all"/&gt;</text>
+          <credit role="publishing company">(AP)</credit>
+        </item>
+      </channel>
+	  </rss>
+  </body>
+</html>
