@@ -4,9 +4,6 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 
-module RssReader
-  class InvalidUrl < StandardError ; end
-end
-
+require 'rss_reader/errors'
 require 'rss_reader/feed'
 require 'rss_reader/entry'
